@@ -1,22 +1,19 @@
-# Datasets de Análisis de Marcha
+# Datasets for Teaching and Practice
 
-Aquí se publicarán datasets ligeros para fines docentes.
+Here you will find **lightweight datasets** for exercises and course tutorials.
 
-Para archivos pesados (DICOM, C3D completos, MOT de alta frecuencia), utiliza el enlace a OneDrive UdeA:
-
-👉 Próximamente: enlace a la carpeta oficial de datasets
+Larger files such as full gait trials, DICOM files, or raw marker trajectories will be hosted in OneDrive UdeA.
 
 ---
 
-## Dataset 1 — Marcha normal (procesado)
-- Variables: ángulos articulares, fuerzas, momentos
-- Formato: .csv, .mot
-- Peso: ~5 MB
-- Ideal para prácticas de OpenSim y Mokka
+## Dataset 1 — Normal Gait (processed)
+- Formats: `.csv`, `.mot`
+- Includes joint angles, GRFs, and simple models
+- Size: ~5 MB
 
-## Dataset 2 — Ejemplo de prótesis transtibial
-- Mallas de amputación formato STL
-- Modelo OpenSim
-- Script de análisis
+## Dataset 2 — Transtibial Prosthesis Example
+- STL meshes  
+- OpenSim model  
+- Scripts for preprocessing  
 
-> Solo se incluirán datasets anonimizados y livianos.
+More datasets will be uploaded periodically.

@@ -6,8 +6,8 @@ Aquí encontrarás próximamente:
 
 - Tutoriales de OpenSim
 - Análisis de marcha en Kinovea
-- Datasets de ejemplo en OneDrive UdeA
+- Datasets de imágenes médicas
+- Tutoriales de edición y conversión de STL
 - Scripts de análisis
-- Videos y capturas del laboratorio de marcha
 
 Sitio en construcción 🚧

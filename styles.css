@@ -1,57 +1,59 @@
 /* ----- Hero landing (top of index) ----- */
 .hero-landing {
-  margin: 1.5rem 0 2rem;
-  padding: 1.8rem 1.5rem 1.6rem;
-  border-radius: 18px;
-  background: linear-gradient(135deg,
-    rgba(0, 150, 136, 0.06),
-    rgba(0, 188, 212, 0.03)
+  margin: 2rem 0 2.5rem;
+  padding: 2.2rem 2rem 2rem;
+  border-radius: 22px;
+  background: linear-gradient(
+    135deg,
+    rgba(0, 150, 136, 0.18),
+    rgba(0, 188, 212, 0.10)
   );
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  gap: 0.9rem;
+  gap: 1rem;
 }
 
 .hero-logos {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 32px;
+  gap: 40px;
 }
 
 .hero-athlete {
-  max-height: 110px;
+  max-height: 80px;
   width: auto;
 }
 
 .hero-udea {
-  max-height: 90px; /* UdeA más grande y protagonista */
+  max-height: 110px;  /* UdeA más grande y protagonista */
   width: auto;
 }
 
 .hero-tagline {
-  font-size: 0.98rem;
-  max-width: 720px;
-  color: var(--md-default-fg-color--light);
+  font-size: 1rem;
+  max-width: 760px;
+  color: var(--md-default-fg-color--lighter);
 }
 
 /* Responsive tweak */
 @media (max-width: 640px) {
   .hero-logos {
     flex-direction: column;
-    gap: 16px;
+    gap: 18px;
   }
 
   .hero-athlete {
-    max-height: 90px;
+    max-height: 70px;
   }
 
   .hero-udea {
-    max-height: 80px;
+    max-height: 95px;
   }
 }
+
 
 /* ----- Modern cards for Quick Access (ya las tenías) ----- */
 .md-typeset .grid.cards > ul {

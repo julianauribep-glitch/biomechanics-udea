@@ -17,7 +17,7 @@ This website hosts the educational material for:
 
 ## 🚀 Quick Access
 
-<div class="grid cards" markdown>
+<div class="grid cards" markdown="1">
 
 - **[Biomechanics of Human Movement](biomechanics.md)**  
   Overview, lab sessions, and basic gait analysis tutorials.

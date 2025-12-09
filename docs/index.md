@@ -30,28 +30,26 @@ This website hosts the educational material for:
 
 </div>
 
-
 ---
 
 ## 🔧 Areas of Work
 
 <div class="grid cards" markdown>
 
--   :material-walk: **Gait Laboratory**  
-    Motion capture, force measurement, anthropometry, and instrumentation basics.  
-    Includes student-friendly guides and step-by-step procedures.
+- **Gait laboratory**  
+  Motion capture, basic instrumentation, and introductory analysis sessions.
 
--   :material-brain: **Modeling & Simulation**  
-    Musculoskeletal modeling with OpenSim, kinematic and dynamic analyses, gait simulation.
+- **Modeling and simulation**  
+  Musculoskeletal models, OpenSim workflows, and numerical experiments.
 
--   :material-cogs: **Design & Prototyping**  
-    CAD models, STL files for orthotics and prosthetics, printable components, and examples.
+- **Design and prototyping**  
+  CAD models, STL files for orthoses and prostheses, and 3D-printable parts.
 
 </div>
 
 ---
 
-## 👩🏽‍🏫 Instructor
+## Instructor
 
 **Juliana Uribe Pérez**  
-Biomedical Engineering Program — University of Antioquia
+Biomedical Engineering Program – University of Antioquia

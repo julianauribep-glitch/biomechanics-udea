@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="logo.jpg" width="140" alt="Biomechanics logo"><br>
-  <img src="logo_udea.png" width="120" alt="UdeA logo">
-</p>
+<div class="hero-logos">
+  <img src="logo.jpg" alt="Biomechanics logo">
+  <img src="logo_udea.png" alt="UdeA logo">
+</div>
 
 # Biomechanics UdeA
 

@@ -12,7 +12,7 @@ This website hosts the educational material for:
 
 ## 🚀 Quick Access
 
-[📘 Human Biomechanics](biomechanics.md){ .md-button .md-button--primary }
+[📘 Biomechanics of Human Movement](biomechanics.md){ .md-button .md-button--primary }
 [💻 Computational Biomechanics](computational_biomechanics.md){ .md-button }
 [📊 Datasets](datasets.md){ .md-button }
 

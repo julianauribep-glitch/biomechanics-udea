@@ -6,14 +6,14 @@ theme:
   logo: logo.jpg
   palette:
     - scheme: default
-      primary: teal
-      accent: deep orange
+      primary: teal      # barra superior
+      accent: cyan       # detalles (links activos, etc.)
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
       primary: teal
-      accent: deep orange
+      accent: cyan
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -25,6 +25,7 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+
 
 nav:
   - Home: index.md
@@ -52,4 +53,6 @@ extra:
         <div style="text-align:center; padding-top:10px;">
           <img src="img/logo_udea.png" alt="UdeA logo" width="110">
         </div>
-     - styles.css
+
+ extra_css:
+  - styles.css

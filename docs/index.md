@@ -1,0 +1,13 @@
+# Bienvenida al sitio del curso de Biomecánica · UdeA
+
+Este es el sitio donde se alojará el material del curso de **Biomecánica del Cuerpo Humano** y **Biomecánica Computacional**.
+
+Aquí encontrarás próximamente:
+
+- Tutoriales de OpenSim
+- Análisis de marcha en Kinovea
+- Datasets de ejemplo en OneDrive UdeA
+- Scripts de análisis
+- Videos y capturas del laboratorio de marcha
+
+Sitio en construcción 🚧

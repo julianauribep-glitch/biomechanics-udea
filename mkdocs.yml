@@ -3,7 +3,7 @@ site_name: Biomechanics UdeA
 theme:
   name: material
   language: en
-  logo: logo.png
+  logo: img/logo.png
   palette:
     - scheme: default
       primary: teal
@@ -34,6 +34,14 @@ nav:
   - Resources:
       - Datasets: datasets.md
   - Contact: contacto.md
+
+  extra:
+  footer:
+    - format: html
+      text: |
+        <div style="text-align:center; padding-top:10px;">
+            <img src="img/logo_udea.png" alt="UdeA logo" width="110">
+        </div>
 
 markdown_extensions:
   - toc:

@@ -16,18 +16,18 @@ This website hosts educational material for:
 ---
 ## 🚀 Quick Access
 
-### [Biomechanics of Human Movement](biomechanics.md)
-Overview, lab sessions, and basic gait analysis tutorials.
+<div class="grid cards" markdown>
 
----
+- **[Biomechanics of Human Movement](biomechanics.md)**  
+  Overview, lab sessions and basic gait analysis tutorials.
 
-### [Computational Biomechanics](computational_biomechanics.md)
-OpenSim workflows, models, and simulation projects.
+- **[Computational Biomechanics](computational_biomechanics.md)**  
+  OpenSim workflows, models and simulation projects.
 
----
+- **[Datasets](datasets.md)**  
+  Small anonymized datasets and links to larger collections in OneDrive.
 
-### [Datasets](datasets.md)
-Small anonymized datasets and links to larger collections in OneDrive.
+</div>
 ---
 
 ## Areas of work

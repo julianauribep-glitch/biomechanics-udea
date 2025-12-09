@@ -3,7 +3,7 @@ site_name: Biomechanics UdeA
 theme:
   name: material
   language: en
-  logo: img/logo.png
+  logo: logo.jpg
   palette:
     - scheme: default
       primary: teal

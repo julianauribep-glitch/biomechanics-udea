@@ -1,19 +1,19 @@
 site_name: Biomechanics UdeA
 theme:
   name: material
-  language: es
+  language: en
   palette:
     primary: teal
     accent: deep orange
 
 nav:
-  - Inicio: index.md
-  - Cursos:
+  - Home: index.md
+  - Courses:
       - Biomechanics: biomechanics.md
       - Computational biomechanics: computational biomechanics.md
-  - Recursos:
+  - Ressources:
       - Datasets: datasets.md
-  - Contacto: contacto.md
+  - Contact: contacto.md
 
 markdown_extensions:
   - toc:

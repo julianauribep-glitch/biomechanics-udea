@@ -52,3 +52,4 @@ extra:
         <div style="text-align:center; padding-top:10px;">
           <img src="img/logo_udea.png" alt="UdeA logo" width="110">
         </div>
+     - styles.css

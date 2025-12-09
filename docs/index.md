@@ -14,18 +14,20 @@ This website hosts educational material for:
 > Laboratory guides, open-source software tutorials, OpenSim models, and anonymized datasets used for teaching and research.
 
 ---
+## 🚀 Quick Access
 
-## Quick access
+### [Biomechanics of Human Movement](biomechanics.md)
+Overview, lab sessions, and basic gait analysis tutorials.
 
-- [Biomechanics of Human Movement](biomechanics.md)  
-  Overview, lab sessions, and basic gait analysis tutorials.
+---
 
-- [Computational Biomechanics](computational_biomechanics.md)  
-  OpenSim workflows, models, and simulation projects.
+### [Computational Biomechanics](computational_biomechanics.md)
+OpenSim workflows, models, and simulation projects.
 
-- [Datasets](datasets.md)  
-  Small teaching datasets and links to larger collections in OneDrive.
+---
 
+### [Datasets](datasets.md)
+Small anonymized datasets and links to larger collections in OneDrive.
 ---
 
 ## Areas of work

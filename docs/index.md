@@ -1,6 +1,11 @@
-<div class="hero-logos">
-  <img src="logo.jpg" alt="Biomechanics logo">
-  <img src="logo_udea.png" alt="UdeA logo">
+<div class="hero-landing">
+  <div class="hero-logos">
+    <img src="logo.jpg" class="hero-athlete" alt="Biomechanics logo">
+    <img src="logo_udea.png" class="hero-udea" alt="UdeA logo">
+  </div>
+  <p class="hero-tagline">
+    Teaching and research in human and computational biomechanics at Universidad de Antioquia.
+  </p>
 </div>
 
 # Biomechanics UdeA

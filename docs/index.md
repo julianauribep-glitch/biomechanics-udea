@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="logo.jpg" width="140" style="margin-right:20px;">
-  <img src="logo_udea.png" width="120">
-</p>
+<div style="display:flex; justify-content:center; align-items:center; gap:32px; margin-bottom:1.5rem;">
+  <img src="logo.jpg" width="140" alt="Biomechanics logo">
+  <img src="logo_udea.png" width="120" alt="UdeA logo">
+</div>
 
 # 🧠 Biomechanics UdeA
 
@@ -19,16 +19,17 @@ This website hosts the educational material for:
 
 <div class="grid cards" markdown>
 
--   :material-human-walk: **[Biomechanics of Human Movement](biomechanics.md)**  
-    Overview, lab sessions, and basic gait analysis tutorials.
+- **[Biomechanics of Human Movement](biomechanics.md)**  
+  Overview, lab sessions, and basic gait analysis tutorials.
 
--   :material-laptop: **[Computational Biomechanics](computational_biomechanics.md)**  
-    OpenSim workflows, models, and simulation projects.
+- **[Computational Biomechanics](computational_biomechanics.md)**  
+  OpenSim workflows, models, and simulation projects.
 
--   :material-database: **[Datasets](datasets.md)**  
-    Small teaching datasets and links to larger collections in OneDrive.
+- **[Datasets](datasets.md)**  
+  Small teaching datasets and links to larger collections in OneDrive.
 
 </div>
+
 
 ---
 

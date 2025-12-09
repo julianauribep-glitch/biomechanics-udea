@@ -1,13 +1,42 @@
-# Bienvenida al sitio del curso de Biomecánica · UdeA
+# 🧠 Biomechanics UdeA
 
-Este es el sitio donde se alojará el material del curso de **Biomecánica del Cuerpo Humano** y **Biomecánica Computacional**.
+This website hosts the educational material for:
 
-Aquí encontrarás próximamente:
+- **Human Biomechanics**
+- **Computational Biomechanics**
+- Student research groups and gait lab projects
 
-- Tutoriales de OpenSim
-- Análisis de marcha en Kinovea
-- Datasets de imágenes médicas
-- Tutoriales de edición y conversión de STL
-- Scripts de análisis
+> Here you will find laboratory guides, open-source software tutorials, OpenSim models, and anonymized datasets used for teaching and research.
 
-Sitio en construcción 🚧
+---
+
+## 🚀 Quick Access
+
+[📘 Human Biomechanics](biomechanics.md){ .md-button .md-button--primary }
+[💻 Computational Biomechanics](computational_biomechanics.md){ .md-button }
+[📊 Datasets](datasets.md){ .md-button }
+
+---
+
+## 🔧 Areas of Work
+
+<div class="grid cards" markdown>
+
+-   :material-walk: **Gait Laboratory**  
+    Motion capture, force measurement, anthropometry, and instrumentation basics.  
+    Includes student-friendly guides and step-by-step procedures.
+
+-   :material-brain: **Modeling & Simulation**  
+    Musculoskeletal modeling with OpenSim, kinematic and dynamic analyses, gait simulation.
+
+-   :material-cogs: **Design & Prototyping**  
+    CAD models, STL files for orthotics and prosthetics, printable components, and examples.
+
+</div>
+
+---
+
+## 👩🏽‍🏫 Instructor
+
+**Juliana Uribe Pérez**  
+Biomedical Engineering Program — University of Antioquia

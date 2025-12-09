@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="logo.jpg" width="140" style="margin-right:20px;">
+  <img src="logo_udea.png" width="120">
+</p>
+
 # 🧠 Biomechanics UdeA
 
 This website hosts the educational material for:

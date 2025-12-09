@@ -1,24 +1,24 @@
-# Biomecánica del Cuerpo Humano · UdeA
+# Biomechanics of Human Movement · UdeA
 
-Esta sección contiene el material del curso de *Biomecánica del Cuerpo Humano*.
+This section contains the material for the **Human Biomechanics** course.
 
-## Contenidos
-- Introducción a la biomecánica
-- Identifación de acción muscular
-- Estática 
-- Prácticas en el laboratorio de marcha
-- Tutoriales de análisis (Kinovea, OpenSim)
-- Ejercicios y datasets de ejemplo
+## Contents
+- Introduction to biomechanics  
+- Muscle action identification  
+- Statics  
+- Gait laboratory practices  
+- Analysis tutorials (Kinovea, OpenSim)  
+- Exercises and example datasets  
 
 ---
 
-## Prácticas en el laboratorio de marcha
-Guías para:
-- Toma de medidas antropométricas
-- Instrumentación del usuario
-- Calibración del sistema 
-- Registro de movimientos
-- Captura de fuerzas
-- Procesamiento inicial
+## Gait Laboratory Practices
+Guides for:
+- Anthropometric measurements  
+- User instrumentation  
+- System calibration  
+- Motion capture  
+- Force plate acquisition  
+- Initial data processing  
 
-> Próximamente se añadirán videos, imágenes y ejemplos descargables.
+More videos, images, and downloadable examples will be added soon.

@@ -29,19 +29,10 @@ theme:
 nav:
   - Home: index.md
   - Courses:
-      - Biomechanics of Human Movement: biomechanics.md
-      - Computational biomechanics: computational biomechanics.md
+      - Human Biomechanics: biomechanics.md
+      - Computational Biomechanics: computational_biomechanics.md
   - Resources:
       - Datasets: datasets.md
-  - Contact: contacto.md
-
-  extra:
-  footer:
-    - format: html
-      text: |
-        <div style="text-align:center; padding-top:10px;">
-            <img src="img/logo_udea.png" alt="UdeA logo" width="110">
-        </div>
 
 markdown_extensions:
   - toc:
@@ -52,3 +43,12 @@ markdown_extensions:
   - footnotes
   - attr_list
   - md_in_html
+
+extra:
+  favicon: img/logo.png
+  footer:
+    - format: html
+      text: |
+        <div style="text-align:center; padding-top:10px;">
+          <img src="img/logo_udea.png" alt="UdeA logo" width="110">
+        </div>

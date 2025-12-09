@@ -1,22 +1,21 @@
-# Biomecánica Computacional · UdeA
+# Computational Biomechanics · UdeA
 
-Material del curso electivo avanzado: *Biomecánica Computacional*.
+Material for the **Computational Biomechanics** elective course.
 
-## Contenidos principales
-- Procesamiento de imágenes
-- Proesamiento de archivos tipo STL
-- Mecanismos en dispostivos de rehabilitación
-- Modelos CAD para prótesis y ortesis
-- Modelado musculo-esquelético en OpenSim
-- Pipelines de simulación
-  
+## Main Topics
+- Musculoskeletal modeling in OpenSim
+- Dynamics and kinematics pipelines
+- Estimation of muscle forces
+- CAD modeling for orthotics and prosthetics (STL)
+- Basic introduction to FEM (optional)
 
 ---
 
-## Proyectos del curso
-Se incluirán ejemplos de:
-- Scripts de análisis
-- Modelos OpenSim modificados
-- STL de modelos anatómicos
-- Archivos STEP de prótesis/ortesis
-- Datasets derivados del laboratorio
+## Course Projects
+Examples include:
+- Gait analysis in OpenSim
+- STL-based modification of prosthetic foot geometry
+- Simulation of functional tasks
+- Custom scripts for batch processing
+
+More code, models, and examples will be added.

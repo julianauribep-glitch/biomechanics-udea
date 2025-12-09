@@ -1,23 +1,59 @@
-/* ----- Hero logos (top of index) ----- */
+/* ----- Hero landing (top of index) ----- */
+.hero-landing {
+  margin: 1.5rem 0 2rem;
+  padding: 1.8rem 1.5rem 1.6rem;
+  border-radius: 18px;
+  background: linear-gradient(135deg,
+    rgba(0, 150, 136, 0.06),
+    rgba(0, 188, 212, 0.03)
+  );
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.9rem;
+}
+
 .hero-logos {
   display: flex;
-  justify-content: center;
   align-items: center;
-  gap: 24px;
-  margin: 1.8rem 0 1rem;
+  justify-content: center;
+  gap: 32px;
 }
 
-.hero-logos img:first-child {
-  max-height: 90px;   /* atleta */
+.hero-athlete {
+  max-height: 110px;
   width: auto;
 }
 
-.hero-logos img:last-child {
-  max-height: 56px;   /* UdeA */
+.hero-udea {
+  max-height: 90px; /* UdeA más grande y protagonista */
   width: auto;
 }
 
-/* ----- Modern cards for Quick Access and similar grids ----- */
+.hero-tagline {
+  font-size: 0.98rem;
+  max-width: 720px;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Responsive tweak */
+@media (max-width: 640px) {
+  .hero-logos {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .hero-athlete {
+    max-height: 90px;
+  }
+
+  .hero-udea {
+    max-height: 80px;
+  }
+}
+
+/* ----- Modern cards for Quick Access (ya las tenías) ----- */
 .md-typeset .grid.cards > ul {
   list-style: none;
   padding: 0;
@@ -37,7 +73,6 @@
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.10);
 }
 
-/* Slight spacing above grids */
 .md-typeset .grid.cards {
   margin-top: 0.4rem;
 }

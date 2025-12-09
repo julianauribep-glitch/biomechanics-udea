@@ -17,16 +17,19 @@ This website hosts the educational material for:
 
 ## 🚀 Quick Access
 
-<div class="grid cards" markdown="1">
+<div class="grid cards">
 
-- **[Biomechanics of Human Movement](biomechanics.md)**  
-  Overview, lab sessions, and basic gait analysis tutorials.
+-   :material-human-walk:{ .lg .middle } **Biomechanics of Human Movement**  
+    Overview, lab sessions, and gait tutorials.  
+    [:octicons-arrow-right-16: Open](biomechanics.md)
 
-- **[Computational Biomechanics](computational_biomechanics.md)**  
-  OpenSim workflows, models, and simulation projects.
+-   :material-laptop:{ .lg .middle } **Computational Biomechanics**  
+    Workflows, models, and FEM tutorials.  
+    [:octicons-arrow-right-16: Open](computational_biomechanics.md)
 
-- **[Datasets](datasets.md)**  
-  Small teaching datasets and links to larger collections in OneDrive.
+-   :material-database:{ .lg .middle } **Datasets**  
+    Small anonymized datasets.  
+    [:octicons-arrow-right-16: Open](datasets.md)
 
 </div>
 
